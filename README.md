@@ -6,7 +6,8 @@ Bash script to find fuplicate files by hash verification recursively in any dire
 # Install
 undefined
 # Usage
-cd into "find_duplicates.sh" and just call the script by either running "source find_duplicates.sh" or  running "./find_duplicates.sh"
+cd into directory where "find_duplicates.sh" was cloned into and just call the script by either running "source find_duplicates.sh" or  running "./find_duplicates.sh" and pass the directory you wish to search.
+eg. ./find_duplicates.sh [some\ directory/]
 the results of the search will be saved to a text file in your "~/" eg: "$HOME" directory.
 # Contribution
 open source
